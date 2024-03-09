@@ -22,7 +22,7 @@ module.exports = {
         primary: {
           100: "#CDA274",
           200: "#292F36",
-          300: "#F4F0EC",
+          300: "#2D0A1F",
           400: "#E2E2E2",
         },
         text: {
